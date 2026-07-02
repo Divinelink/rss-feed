@@ -25,10 +25,11 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Update Feeds
+        working-directory: ./scripts
         env:
           TMDB_AUTH_TOKEN: ${{ secrets.TMDB_AUTH_TOKEN }}
           TMDB_ACCOUNT_ID: ${{ secrets.TMDB_ACCOUNT_ID }}
-        run: bash scripts/run_updates.sh
+        run: bash run_updates.sh
 
       - name: Commit changes
         run: |
