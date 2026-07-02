@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Bandcamp Updates</title>
+<link>https://bandcamp.com</link>
+<description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
+<lastBuildDate>2026-07-07 15:34:41.275742</lastBuildDate>
+<item>
+<title>New follow: khruangbin (from <b>divinelink</b>)</title>
+<link>https://khruangbin.bandcamp.com/music</link>
+<guid>following-20260707152347-divinelink-2741765283575644260</guid>
+<description><a href="https://khruangbin.bandcamp.com/music">https://khruangbin.bandcamp.com/music</a></description>
+<pubDate>Tue, 07 Jul 2026 15:23:47 -0000</pubDate>
+</item>
+<item>
+<title><b>divinelink</b> added to wishlist: Coming Up To Consciousness</title>
+<link>https://insideoutmusic.bandcamp.com/album/coming-up-to-consciousness</link>
+<guid>wishlist-20260707152347-divinelink-7223832028399403082</guid>
+<description><a href="https://insideoutmusic.bandcamp.com/album/coming-up-to-consciousness">https://insideoutmusic.bandcamp.com/album/coming-up-to-consciousness</a></description>
+<pubDate>Tue, 07 Jul 2026 15:23:47 -0000</pubDate>
+</item>
+<item>
+<title>New follow: c418 (from <b>divinelink</b>)</title>
+<link>https://c418.bandcamp.com/music</link>
+<guid>following-20260707073633-divinelink-7188652141967216039</guid>
+<description><a href="https://c418.bandcamp.com/music">https://c418.bandcamp.com/music</a></description>
+<pubDate>Tue, 07 Jul 2026 07:36:33 -0000</pubDate>
+</item>
+<item>
+<title>New follow: kneecap (from <b>divinelink</b>)</title>
+<link>https://kneecap.bandcamp.com/music</link>
+<guid>following-20260707073633-divinelink--403647432045400245</guid>
+<description><a href="https://kneecap.bandcamp.com/music">https://kneecap.bandcamp.com/music</a></description>
+<pubDate>Tue, 07 Jul 2026 07:36:33 -0000</pubDate>
+</item>
+
+</channel>
+</rss>
