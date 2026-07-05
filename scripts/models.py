@@ -5,6 +5,7 @@ from typing import Optional
 class ItemType(Enum):
     RATED = "rated"
     WATCHLIST = "watchlist"
+    FAVORITES = "favorites"
 
 @dataclass
 class RssItem:

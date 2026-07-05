@@ -63,10 +63,17 @@ def _build_item(movie, item_type: ItemType, user):
         date_str = ar.get('created_at')
         extra = f"Watched on {date_str.split('T')[0] if date_str else 'Unknown'}."
         item_title = f"{title}, {year} - {stars}" if year else f"{title} - {stars}"
-    else: # WATCHLIST
+        guid_text = f"tmdb-{item_type.value}-{mid}-{date_str or ''}"
+    elif item_type == ItemType.WATCHLIST:
         date_str = datetime.now(timezone.utc).isoformat()
         extra = f"Added to watchlist from {user}."
-        item_title = f"{title}, {year}" if year else title
+        item_title = f"{user} added to watchlist: {title}, {year}" if year else title
+        guid_text = f"tmdb-{item_type.value}-{mid}-{user}"
+    elif item_type == ItemType.FAVORITES:
+        date_str = datetime.now(timezone.utc).isoformat()
+        extra = f"Added to favorites from {user}."
+        item_title = f"{user} added to favorites: {title}, {year}" if year else title
+        guid_text = f"tmdb-{item_type.value}-{mid}-{user}"        
 
     desc_html = ""
     if poster_url:
@@ -82,7 +89,7 @@ def _build_item(movie, item_type: ItemType, user):
         link=link,
         description_html=desc_html,
         pub_date_str=date_str,
-        guid_text=f"tmdb-{item_type.value}-{mid}-{date_str or ''}",
+        guid_text=guid_text,
         poster_url=poster_url
     )
 
@@ -107,6 +114,7 @@ def generate_feed(user, auth_token, account_id):
     print(f"Fetching data from TMDB for {user}...")
     rated = _get_account_movies("rated", auth_token, account_id)
     watchlist = _get_account_movies("watchlist", auth_token, account_id)
+    favorites = _get_account_movies("favorites", auth_token, account_id)
 
     items = []
     for m in rated:
@@ -116,6 +124,9 @@ def generate_feed(user, auth_token, account_id):
     for m in watchlist:
         items.append((datetime.now(timezone.utc), _build_item(m, ItemType.WATCHLIST, user)))
 
+    for m in favorites:
+        items.append((datetime.now(timezone.utc), _build_item(m, ItemType.FAVORITES, user)))
+
     items.sort(key=lambda x: x[0], reverse=True)
     print(f"Processing {len(items)} items...")
 
@@ -123,7 +134,7 @@ def generate_feed(user, auth_token, account_id):
     channel = ET.SubElement(rss, 'channel')
     ET.SubElement(channel, 'title').text = f"{user}'s Movie Feed"
     ET.SubElement(channel, 'link').text = "https://www.themoviedb.org/"
-    ET.SubElement(channel, 'description').text = f"{user}'s Rated Movies & Watchlist"
+    ET.SubElement(channel, 'description').text = f"{user}'s Activity"
     ET.SubElement(channel, 'language').text = "en-US"
     ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
 
@@ -160,6 +171,6 @@ def generate_feed(user, auth_token, account_id):
     print(f"Done! Feed saved to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    auth_token = os.environ.get('TMDB_AUTH_TOKEN')
-    account_id = os.environ.get('TMDB_ACCOUNT_ID')
-    generate_feed("Divinelink", auth_token, account_id)    
+   auth_token = os.environ.get('TMDB_AUTH_TOKEN')
+   account_id = os.environ.get('TMDB_ACCOUNT_ID')
+   generate_feed("Divinelink", auth_token, account_id)    
