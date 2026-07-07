@@ -19,42 +19,52 @@ def fetch_articles():
     soup = BeautifulSoup(response.text, "html.parser")
     articles = []
     
-    # Target the main content area
-    post_list = soup.select_one(".post-list, .content-area, main")
-    if not post_list:
-        post_list = soup
-        
-    # Find all article links
-    links = post_list.select("a[href*='/features/'], a[href*='/lists/'], a[href*='/album-of-the-day/'], a[href*='/best-'], a[href*='/prog-is'], a[href*='/tape-label'], a[href*='/scene-report'], a[href*='/the-side-door'], a[href*='/essential-releases']")
+    article_divs = soup.select("div.list-article")
+    
+    if not article_divs:
+        print("Warning: No articles found")
+        return []
     
     seen_links = set()
     
-    for link in links:
-        href = link["href"]
-        if href in seen_links or not href.startswith("/"):
-            continue
-            
-        if not href.startswith("http"):
-            href = f"https://daily.bandcamp.com{href}"
-            
-        seen_links.add(href)
+    for article_div in article_divs:
+        # Find the title link within each list-article div
+        title_link = article_div.select_one("div.title-wrapper a.title")
         
-        title = link.get_text(strip=True)
-        if not title:
+        # Fallback to any link if title link not found
+        if not title_link:
+            title_link = article_div.select_one("a[href]")
+        
+        if not title_link:
             continue
-            
-        # Find the parent container to get date and image
-        # We go up a few levels to ensure we catch the whole article block
-        parent = link.find_parent(["div", "li", "article"])
-        if parent:
-            parent = parent.find_parent(["div", "li", "article"]) # Go up one more level for safety
+        
+        href = title_link["href"]
+        
+        # Skip duplicates
+        if href in seen_links:
+            continue
+        seen_links.add(href)    
+        
+        # Normalize href
+        if not href.startswith("http"):
+            if href.startswith("/"):
+                href = f"https://daily.bandcamp.com{href}"
+            else:
+                continue
+        
+        # Get title from the title link
+        title = title_link.get_text(strip=True)
+        if not title or len(title) < 5:
+            continue
+        
         description = title
-        pub_date = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+        pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
         icon = ""
         
-        if parent:
-            # Extract Date
-            text_content = parent.get_text()
+        # Extract Date from article-info-text
+        info_text = article_div.select_one("div.article-info-text")
+        if info_text:
+            text_content = info_text.get_text()
             date_match = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s\d{1,2},\s\d{4}', text_content)
             if date_match:
                 try:
@@ -62,25 +72,19 @@ def fetch_articles():
                     pub_date = parsed_date.strftime("%a, %d %b %Y %H:%M:%S +0000")
                 except ValueError:
                     pass
+        
+        # Extract Icon/Image from the thumb link
+        thumb_link = article_div.select_one("a.thumb img")
+        if thumb_link:
+            src = thumb_link.get("src")
             
-            # Extract Icon/Image
-            # Look for any img tag within the parent container
-            img_tag = parent.select_one("img")
-            if img_tag:
-                # Check data-src first (common for lazy loading), then src
-                src = img_tag.get("data-src") or img_tag.get("src")
+            if src:
+                if src.startswith("//"):
+                    src = "https:" + src
+                elif src.startswith("/"):
+                    src = f"https://daily.bandcamp.com{src}"
                 
-                if src:
-                    # Handle protocol-relative URLs (//example.com/image.jpg)
-                    if src.startswith("//"):
-                        src = "https:" + src
-                    # Handle relative URLs (/images/image.jpg)
-                    elif src.startswith("/"):
-                        src = f"https://daily.bandcamp.com{src}"
-                    
-                    # Ensure it looks like an image URL
-                    if "f4.bcbits.com" in src or ".jpg" in src or ".png" in src:
-                        icon = src
+                icon = src
 
         articles.append({
             "title": title,
@@ -110,7 +114,7 @@ def generate_feed(articles, output_file="../feeds/bandcamp_daily.xml"):
             item_content = item_content.replace(f"{{{{{key}}}}}", str(value))
         items_xml += item_content + "\n"
 
-    now = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+    now = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
     full_rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
