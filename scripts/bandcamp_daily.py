@@ -57,6 +57,16 @@ def fetch_articles():
         if not title or len(title) < 5:
             continue
         
+        # Extract the franchise/category
+        franchise_tag = article_div.select_one("a.franchise")
+        franchise_text = ""
+        if franchise_tag:
+            franchise_text = franchise_tag.get_text(strip=True).upper()
+        
+        # Append franchise to title if it's ALBUM OF THE DAY
+        if franchise_text == "ALBUM OF THE DAY":
+            title = f"[Album of the Day] {title}"
+        
         description = title
         pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
         icon = ""
