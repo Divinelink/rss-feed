@@ -1,6 +1,7 @@
 import json
 import const
 from datetime import datetime
+import random
 
 DISCOVER_URL = "https://bandcamp.com/api/discover/3/get_web"
 
@@ -9,12 +10,12 @@ def load_template():
         return f.read()
 
 
-def fetch_albums(genre="all", fmt="digital", sort="rand", page=1):
+def fetch_albums(genre="all", fmt="digital", sort="top", page=random.randint(1, 50)):
     params = {
         "g": genre,
         "f": fmt,
         "s": sort,
-        "p": page
+        "p": page,
     }
 
     response = const.requester.get(DISCOVER_URL, params=params, timeout=15)
@@ -82,6 +83,7 @@ def fetch_albums(genre="all", fmt="digital", sort="rand", page=1):
         })
 
     print(f"Fetched {len(albums)} albums from page {page}")
+    random.shuffle(albums)
     return albums[:10]
 
 
