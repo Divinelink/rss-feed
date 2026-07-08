@@ -9,6 +9,21 @@ def load_template():
     with open("item.rss", "r", encoding="utf-8") as f:
         return f.read()
 
+def get_player_html(item):
+    player_html = ""
+    featured_track = item.get("featured_track")
+    if featured_track:
+        track_file = featured_track.get("file", {})
+        mp3_url = track_file.get("mp3-128", "")
+        track_title = featured_track.get("title", "")
+        
+        if mp3_url:
+            player_html = f'''
+            <br />
+            <b>Featured track:</b> {track_title}<br />
+            <audio controls src="{mp3_url}" style="margin-top: 5px; width: 100%;"></audio>
+            '''
+    return player_html
 
 def fetch_albums(genre="all", fmt="digital", sort="top", page=random.randint(1, 50)):
     params = {
@@ -48,6 +63,7 @@ def fetch_albums(genre="all", fmt="digital", sort="top", page=random.randint(1, 
         artist = item.get("secondary_text", "")
         genre_text = item.get("genre_text", "")
         art_id = item.get("art_id")
+        player_html = get_player_html(item)
 
         if not title:
             continue
@@ -79,7 +95,8 @@ def fetch_albums(genre="all", fmt="digital", sort="top", page=random.randint(1, 
             "date": pub_date,
             "icon": icon,
             "artist": artist,
-            "genre": genre_text
+            "genre": genre_text,
+            "player_html": player_html
         })
 
     print(f"Fetched {len(albums)} albums from page {page}")
@@ -100,6 +117,9 @@ def generate_feed(albums, output_file="../feeds/bandcamp_discover.xml"):
             )
         else:
             album["icon_html"] = ""
+
+        if not album.get("player_html"):
+            album["player_html"] = ""   
 
         item_content = template
         for key, value in album.items():
