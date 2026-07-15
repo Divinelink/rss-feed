@@ -3,13 +3,13 @@
 [user_orchestrator.py]: Prepping SSF files based on current users...
 [following_parser:divinelink]: Found 67 links...
 [following_parser:divinelink]: Removed 1 artists that divinelink no longer follows
-[following_parser:divinelink]: Found 1 new following items
+[following_parser:divinelink]: Found 0 new following items
 [following_parser:divinelink]: Exited successfully
 [collection_parser:divinelink]: Found 12 links...
 [collection_parser:divinelink]: Found 0 new collection items
 [collection_parser:divinelink]: Exited successfully
-[wishlist_parser:divinelink]: Found 41 links...
-[wishlist_parser:divinelink]: Found 2 new wishlist items
+[wishlist_parser:divinelink]: Found 42 links...
+[wishlist_parser:divinelink]: Found 1 new wishlist items
 [wishlist_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://zoltannyari.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -273,16 +273,13 @@
 [release_parser:divinelink]: Found 16 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [NEW: https://vegyn.bandcamp.com/music]
+[release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://vegyn.bandcamp.com/music]
 [release_parser:divinelink]: Found 19 links...
-[release_parser:divinelink]: Found 19 new release items
+[release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: Found 1 new items for following
-[rss_aggregator.py:unknown user...]: Created item: New follow: vegyn (from <b>divinelink</b>)
-[rss_aggregator.py:divinelink]: Found 2 new items for wishlist
-[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Drunk Ep
-[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: The Road To Hell Is Paved With Good Intentions
-[rss_aggregator.py:divinelink]: updating items.rss with 3 updates for this user
+[rss_aggregator.py:divinelink]: Found 1 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Serpentine
+[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 340 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -323,7 +320,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://brosh.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://pocketpalma.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -744,7 +741,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://diplo.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://charlottegainsbourg.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1124,7 +1121,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://neinrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://vercettitechnicolor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 12 links...
@@ -1652,8 +1649,9 @@
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Becky Hill Lonely Again Caligari Remix
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 1 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-07-14 06:28:11.545325
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Papi With Tokischa Safety Trance Remix
+[rss_aggregator.py:unknown user...]: Created item: New release: Power
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-07-15 06:32:05.754807
 [user_orchestrator.py]: Exited successfully
