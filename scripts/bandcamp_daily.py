@@ -8,10 +8,6 @@ import re
 URL = const._bandcampDailyUrl
 HEADERS = const._bandcampUserAgent
 
-def load_template():
-    with open("item.rss", "r", encoding="utf-8") as f:
-        return f.read()
-
 def fetch_articles():
     response = requests.get(URL, headers=HEADERS, timeout=15)
     response.raise_for_status()
@@ -108,7 +104,7 @@ def fetch_articles():
     return articles
 
 def generate_feed(articles, output_file="../feeds/bandcamp_daily.xml"):
-    template = load_template()
+    template = const.load_template()
     items_xml = ""
     
     for article in articles:

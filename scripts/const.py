@@ -18,3 +18,18 @@ requester = cloudscraper.create_scraper(
         'browser_quirks': True
     },
 )
+
+def load_template(**kwargs):
+    with open("item.rss", "r", encoding="utf-8") as f:
+        template = f.read()
+    
+    # Handle player_html conditionally
+    player_html = kwargs.get('player_html', '')
+    kwargs['audio_player'] = f'<br />{player_html}' if player_html else ''
+    kwargs.pop('player_html', None)
+    
+    # Replace all placeholders
+    for key, value in kwargs.items():
+        template = template.replace(f'{{{{{key}}}}}', str(value))
+    
+    return template

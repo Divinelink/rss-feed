@@ -5,10 +5,6 @@ import random
 
 DISCOVER_URL = "https://bandcamp.com/api/discover/3/get_web"
 
-def load_template():
-    with open("item.rss", "r", encoding="utf-8") as f:
-        return f.read()
-
 def get_player_html(item):
     player_html = ""
     featured_track = item.get("featured_track")
@@ -105,7 +101,9 @@ def fetch_albums(genre="all", fmt="digital", sort="top", page=random.randint(1, 
 
 
 def generate_feed(albums, output_file="../feeds/bandcamp_discover.xml"):
-    template = load_template()
+    template = const.load_template(
+        player_html = "{{player_html}}"
+    )
     items_xml = ""
 
     for album in albums:
