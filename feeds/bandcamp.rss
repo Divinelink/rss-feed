@@ -4,34 +4,27 @@
 <title>Bandcamp Updates</title>
 <link>https://bandcamp.com</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
-<lastBuildDate>2026-07-14 06:28:11.545325</lastBuildDate>
+<lastBuildDate>2026-07-15 06:32:05.754807</lastBuildDate>
 <item>
-<title>New follow: vegyn (from <b>divinelink</b>)</title>
-<link>https://vegyn.bandcamp.com/music</link>
-<guid>following-20260714062023-divinelink--6705420343273096485</guid>
-<description><a href="https://vegyn.bandcamp.com/music">https://vegyn.bandcamp.com/music</a></description>
-<pubDate>Tue, 14 Jul 2026 06:20:23 -0000</pubDate>
+<title><b>divinelink</b> added to wishlist: Serpentine</title>
+<link>https://orenambarchi.bandcamp.com/album/serpentine</link>
+<guid>wishlist-20260715062341-divinelink--3677807467209847554</guid>
+<description><a href="https://orenambarchi.bandcamp.com/album/serpentine">https://orenambarchi.bandcamp.com/album/serpentine</a></description>
+<pubDate>Wed, 15 Jul 2026 06:23:41 -0000</pubDate>
 </item>
 <item>
-<title><b>divinelink</b> added to wishlist: Drunk Ep</title>
-<link>https://lesanimauxsauvages.bandcamp.com/album/drunk-ep</link>
-<guid>wishlist-20260714062023-divinelink--7217652233272909330</guid>
-<description><a href="https://lesanimauxsauvages.bandcamp.com/album/drunk-ep">https://lesanimauxsauvages.bandcamp.com/album/drunk-ep</a></description>
-<pubDate>Tue, 14 Jul 2026 06:20:23 -0000</pubDate>
+<title>New release: Papi With Tokischa Safety Trance Remix</title>
+<link>https://diplo.bandcamp.com/album/papi-with-tokischa-safety-trance-remix</link>
+<guid>release-20260715063205-gerardpapasimakopoulos-3143030880362408630</guid>
+<description><a href="https://diplo.bandcamp.com/album/papi-with-tokischa-safety-trance-remix">https://diplo.bandcamp.com/album/papi-with-tokischa-safety-trance-remix</a></description>
+<pubDate>Wed, 15 Jul 2026 06:32:05 -0000</pubDate>
 </item>
 <item>
-<title><b>divinelink</b> added to wishlist: The Road To Hell Is Paved With Good Intentions</title>
-<link>https://vegyn.bandcamp.com/album/the-road-to-hell-is-paved-with-good-intentions</link>
-<guid>wishlist-20260714062023-divinelink-5743463336657346915</guid>
-<description><a href="https://vegyn.bandcamp.com/album/the-road-to-hell-is-paved-with-good-intentions">https://vegyn.bandcamp.com/album/the-road-to-hell-is-paved-with-good-intentions</a></description>
-<pubDate>Tue, 14 Jul 2026 06:20:23 -0000</pubDate>
-</item>
-<item>
-<title>New release: Becky Hill Lonely Again Caligari Remix</title>
-<link>https://brosh.bandcamp.com/track/becky-hill-lonely-again-caligari-remix</link>
-<guid>release-20260714062811-gerardpapasimakopoulos-8216459437618194398</guid>
-<description><a href="https://brosh.bandcamp.com/track/becky-hill-lonely-again-caligari-remix">https://brosh.bandcamp.com/track/becky-hill-lonely-again-caligari-remix</a></description>
-<pubDate>Tue, 14 Jul 2026 06:28:11 -0000</pubDate>
+<title>New release: Power</title>
+<link>https://neinrecords.bandcamp.com/album/power</link>
+<guid>release-20260715063205-gerardpapasimakopoulos-5261371608828832539</guid>
+<description><a href="https://neinrecords.bandcamp.com/album/power">https://neinrecords.bandcamp.com/album/power</a></description>
+<pubDate>Wed, 15 Jul 2026 06:32:05 -0000</pubDate>
 </item>
 
 </channel>
