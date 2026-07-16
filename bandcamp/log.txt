@@ -8,8 +8,8 @@
 [collection_parser:divinelink]: Found 12 links...
 [collection_parser:divinelink]: Found 0 new collection items
 [collection_parser:divinelink]: Exited successfully
-[wishlist_parser:divinelink]: Found 42 links...
-[wishlist_parser:divinelink]: Found 1 new wishlist items
+[wishlist_parser:divinelink]: Found 44 links...
+[wishlist_parser:divinelink]: Found 2 new wishlist items
 [wishlist_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://zoltannyari.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -277,9 +277,10 @@
 [release_parser:divinelink]: Found 19 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: Found 1 new items for wishlist
-[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Serpentine
-[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
+[rss_aggregator.py:divinelink]: Found 2 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Zero Hora Express
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Power
+[rss_aggregator.py:divinelink]: updating items.rss with 2 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 340 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -287,8 +288,8 @@
 [collection_parser:gerardpapasimakopoulos]: Found 495 links...
 [collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
-[wishlist_parser:gerardpapasimakopoulos]: Found 50 links...
-[wishlist_parser:gerardpapasimakopoulos]: Found 0 new wishlist items
+[wishlist_parser:gerardpapasimakopoulos]: Found 51 links...
+[wishlist_parser:gerardpapasimakopoulos]: Found 1 new wishlist items
 [wishlist_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ventolin1.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 10 links...
@@ -528,7 +529,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://strut.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://kosh212.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -741,7 +742,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://diplo.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://charlottegainsbourg.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1085,7 +1086,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://music-from-memory.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://rocktothebeatrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 17 links...
@@ -1121,7 +1122,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://neinrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://vercettitechnicolor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 12 links...
@@ -1649,9 +1650,11 @@
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to wishlist: On Deluxe Edition 2
 [rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Papi With Tokischa Safety Trance Remix
-[rss_aggregator.py:unknown user...]: Created item: New release: Power
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-07-15 06:32:05.754807
+[rss_aggregator.py:unknown user...]: Created item: New release: Somewhere Over The Rainbow?Label=3951727661&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Mood Programs Extended Play
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-07-16 06:35:42.168762
 [user_orchestrator.py]: Exited successfully
