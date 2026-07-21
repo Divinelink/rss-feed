@@ -4,13 +4,20 @@
 <title>Bandcamp Updates</title>
 <link>https://bandcamp.com</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
-<lastBuildDate>2026-07-20 07:04:08.454572</lastBuildDate>
+<lastBuildDate>2026-07-21 06:44:40.745601</lastBuildDate>
 <item>
-<title>New release: Life Is But A Dream</title>
-<link>https://gapdream.bandcamp.com/album/life-is-but-a-dream</link>
-<guid>release-20260720070408-gerardpapasimakopoulos--4937983005997228808</guid>
-<description><a href="https://gapdream.bandcamp.com/album/life-is-but-a-dream">https://gapdream.bandcamp.com/album/life-is-but-a-dream</a></description>
-<pubDate>Mon, 20 Jul 2026 07:04:08 -0000</pubDate>
+<title>New follow: zoerahman (from <b>divinelink</b>)</title>
+<link>https://zoerahman.bandcamp.com/music</link>
+<guid>following-20260721063711-divinelink--6381265090401566570</guid>
+<description><a href="https://zoerahman.bandcamp.com/music">https://zoerahman.bandcamp.com/music</a></description>
+<pubDate>Tue, 21 Jul 2026 06:37:11 -0000</pubDate>
+</item>
+<item>
+<title><b>divinelink</b> added to wishlist: Dripping Red</title>
+<link>https://robbybloodshed.bandcamp.com/album/dripping-red</link>
+<guid>wishlist-20260721063711-divinelink--240000345044868881</guid>
+<description><a href="https://robbybloodshed.bandcamp.com/album/dripping-red">https://robbybloodshed.bandcamp.com/album/dripping-red</a></description>
+<pubDate>Tue, 21 Jul 2026 06:37:11 -0000</pubDate>
 </item>
 
 </channel>
