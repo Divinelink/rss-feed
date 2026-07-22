@@ -4,20 +4,20 @@
 <title>Bandcamp Updates</title>
 <link>https://bandcamp.com</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
-<lastBuildDate>2026-07-21 06:44:40.745601</lastBuildDate>
+<lastBuildDate>2026-07-22 06:46:59.308140</lastBuildDate>
 <item>
-<title>New follow: zoerahman (from <b>divinelink</b>)</title>
-<link>https://zoerahman.bandcamp.com/music</link>
-<guid>following-20260721063711-divinelink--6381265090401566570</guid>
-<description><a href="https://zoerahman.bandcamp.com/music">https://zoerahman.bandcamp.com/music</a></description>
-<pubDate>Tue, 21 Jul 2026 06:37:11 -0000</pubDate>
+<title>New release: Electro More</title>
+<link>https://neinrecords.bandcamp.com/album/electro-more</link>
+<guid>release-20260722064658-gerardpapasimakopoulos-3420454728569699437</guid>
+<description><a href="https://neinrecords.bandcamp.com/album/electro-more">https://neinrecords.bandcamp.com/album/electro-more</a></description>
+<pubDate>Wed, 22 Jul 2026 06:46:58 -0000</pubDate>
 </item>
 <item>
-<title><b>divinelink</b> added to wishlist: Dripping Red</title>
-<link>https://robbybloodshed.bandcamp.com/album/dripping-red</link>
-<guid>wishlist-20260721063711-divinelink--240000345044868881</guid>
-<description><a href="https://robbybloodshed.bandcamp.com/album/dripping-red">https://robbybloodshed.bandcamp.com/album/dripping-red</a></description>
-<pubDate>Tue, 21 Jul 2026 06:37:11 -0000</pubDate>
+<title>New release: Get Mean</title>
+<link>https://boyharsher.bandcamp.com/album/get-mean</link>
+<guid>release-20260722064658-gerardpapasimakopoulos-4788314423574717365</guid>
+<description><a href="https://boyharsher.bandcamp.com/album/get-mean">https://boyharsher.bandcamp.com/album/get-mean</a></description>
+<pubDate>Wed, 22 Jul 2026 06:46:58 -0000</pubDate>
 </item>
 
 </channel>
