@@ -471,7 +471,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://cajucollective.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 14 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://taqtuqa.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 10 links...
@@ -728,7 +728,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://avisionofpanorama.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://discoveryzone1.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
@@ -1120,7 +1120,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://music-from-memory.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://rocktothebeatrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 17 links...
@@ -1732,9 +1732,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 2 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Carlinhos Cardozo Maranh O Na Sombra Do Dub
-[rss_aggregator.py:unknown user...]: Created item: New release: Mutualkind?Label=496745740&Tab=Music
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-08-29 11:08:36.358974
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: U Feat Meora
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-08-30 10:02:32.185101
 [user_orchestrator.py]: Exited successfully
