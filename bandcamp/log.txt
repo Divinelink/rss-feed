@@ -315,12 +315,12 @@
 [release_parser:divinelink]: Exited successfully
 [rss_aggregator.py:divinelink]: No updates detected for this user
 [rss_aggregator.py:divinelink]: Exited successfully
-[following_parser:gerardpapasimakopoulos]: Found 352 links...
+[following_parser:gerardpapasimakopoulos]: Found 354 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
-[following_parser:gerardpapasimakopoulos]: Found 0 new following items
+[following_parser:gerardpapasimakopoulos]: Found 2 new following items
 [following_parser:gerardpapasimakopoulos]: Exited successfully
-[collection_parser:gerardpapasimakopoulos]: Found 509 links...
-[collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
+[collection_parser:gerardpapasimakopoulos]: Found 511 links...
+[collection_parser:gerardpapasimakopoulos]: Found 2 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
 [wishlist_parser:gerardpapasimakopoulos]: Found 53 links...
 [wishlist_parser:gerardpapasimakopoulos]: Found 0 new wishlist items
@@ -403,7 +403,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://oliverkoletzki.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://laslucesprimeras.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
@@ -475,7 +475,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://taqtuqa.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 11 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://wildyouthdigital.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -712,7 +712,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ghostfunkorchestra.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://antibalas.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 11 links...
@@ -1529,7 +1529,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://coldshowers.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 10 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://pnkslm.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1732,10 +1732,22 @@
 [release_parser:gerardpapasimakopoulos]: Found 2 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: What Remains P Laroit Remix
-[rss_aggregator.py:unknown user...]: Created item: New release: Waadouni W Natarouni Maxi Single
-[rss_aggregator.py:unknown user...]: Created item: New release: World No More
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-01 09:30:03.263936
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://basajan.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 5 links...
+[release_parser:gerardpapasimakopoulos]: Found 5 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://interpol.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 16 links...
+[release_parser:gerardpapasimakopoulos]: Found 16 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for collection
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: B Wara
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: This Mirror Weighs A Ton
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for following
+[rss_aggregator.py:unknown user...]: Created item: New follow: basajan (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:unknown user...]: Created item: New follow: interpol (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Yours
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 5 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-02 08:51:55.681344
 [user_orchestrator.py]: Exited successfully
