@@ -944,7 +944,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://singasongfighter.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://futureutopia.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
@@ -1148,7 +1148,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ad93.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://goldenbug.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1351,8 +1351,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hologramteen.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 13 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 14 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://alfamatrix.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1748,7 +1748,10 @@
 [release_parser:gerardpapasimakopoulos]: Found 3 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: No updates detected for this user
-[rss_aggregator.py:gerardpapasimakopoulos]: Exited successfully
-[user_orchestrator.py]: No updates found for bandcamp.rss
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Bl Sut Ep
+[rss_aggregator.py:unknown user...]: Created item: New release: Given To The Night?Label=3346356205&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Pyramid Disko Captain Fluo Night Versions
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-08 08:57:01.187921
 [user_orchestrator.py]: Exited successfully
