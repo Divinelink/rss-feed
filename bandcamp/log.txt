@@ -483,7 +483,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://wildyouthdigital.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://soulwax.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 15 links...
@@ -695,8 +695,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://serensarac.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 8 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 9 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://khruangbin.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1152,7 +1152,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://goldenbug.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://benefitstheband.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1252,7 +1252,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://petsrecordings.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 2 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://lesbigbyrd.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
@@ -1614,7 +1614,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hoganordrekords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://husbandsokc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1748,11 +1748,9 @@
 [release_parser:gerardpapasimakopoulos]: Found 3 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 4 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Tokoyo No Kuni Feat Vega Voga
-[rss_aggregator.py:unknown user...]: Created item: New release: Catz N Dogz Finally Pets240 Cassette Digital
-[rss_aggregator.py:unknown user...]: Created item: New release: Catz N Dogz Finally Pets240 Vinyl Digital
-[rss_aggregator.py:unknown user...]: Created item: New release: Hnr016 Tunnel New Pastoral Life
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 4 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-12 08:43:45.745158
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Exil System 1977 2027
+[rss_aggregator.py:unknown user...]: Created item: New release: S P Rgesi Yoncadan
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-14 09:54:47.998292
 [user_orchestrator.py]: Exited successfully
