@@ -321,10 +321,10 @@
 [rss_aggregator.py:divinelink]: Exited successfully
 [following_parser:gerardpapasimakopoulos]: Found 362 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
-[following_parser:gerardpapasimakopoulos]: Found 7 new following items
+[following_parser:gerardpapasimakopoulos]: Found 0 new following items
 [following_parser:gerardpapasimakopoulos]: Exited successfully
 [collection_parser:gerardpapasimakopoulos]: Found 519 links...
-[collection_parser:gerardpapasimakopoulos]: Found 8 new collection items
+[collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
 [wishlist_parser:gerardpapasimakopoulos]: Found 53 links...
 [wishlist_parser:gerardpapasimakopoulos]: Found 0 new wishlist items
@@ -567,7 +567,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://strut.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://kosh212.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -704,7 +704,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://shoverecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 6 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://lumierenoirerecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -767,8 +767,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://charlotteandbolis.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 11 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 12 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://fontainesdc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 15 links...
@@ -996,7 +996,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://detritirecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 4 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://poppyjeancrawford.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 2 links...
@@ -1096,7 +1096,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ashrr.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 14 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 3 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://dummyhand.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
@@ -1107,8 +1107,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://davidbyrne.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 13 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 14 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://planettriprecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1148,11 +1148,11 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ad93.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://goldenbug.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 4 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://benefitstheband.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1252,7 +1252,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://petsrecordings.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 3 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://lesbigbyrd.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
@@ -1332,7 +1332,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://kevinmorby.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://thommieg.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1452,7 +1452,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://warprecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://shepastawayofficial.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -1496,7 +1496,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://fuzzclub.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://eddiedark.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 9 links...
@@ -1549,7 +1549,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://deewee.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://k7records.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1565,7 +1565,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://seilrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://museumofnoartsc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 4 links...
@@ -1598,7 +1598,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://alanvega.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 7 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://strawberrypills.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 7 links...
@@ -1614,7 +1614,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hoganordrekords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://husbandsokc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1748,67 +1748,52 @@
 [release_parser:gerardpapasimakopoulos]: Found 3 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://thejonspencerbluesexplosion.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://thejonspencerbluesexplosion.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 3 links...
-[release_parser:gerardpapasimakopoulos]: Found 3 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://malingenie.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://malingenie.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 16 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://djfrankyd1.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://djfrankyd1.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 16 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://ritmofatale.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ritmofatale.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 16 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://blacklightsmoke.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://blacklightsmoke.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 20 links...
-[release_parser:gerardpapasimakopoulos]: Found 20 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://ghostwoman.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ghostwoman.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
-[release_parser:gerardpapasimakopoulos]: Found 5 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://genesisowusu.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://genesisowusu.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 8 links...
-[release_parser:gerardpapasimakopoulos]: Found 8 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 8 new items for collection
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Lust Crazed Muck Men
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Giorgio Moroder Utopia Me Giorgio Ext Intro Outro 70S Disco Rework
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Epifania Part I
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Surrender
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Next Wave Acid Punx Trois
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Lovework Ep 2
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Anne If 2
-[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Human Again
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 7 new items for following
-[rss_aggregator.py:unknown user...]: Created item: New follow: thejonspencerbluesexplosion (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: malingenie (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: djfrankyd1 (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: ritmofatale (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: blacklightsmoke (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: ghostwoman (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:unknown user...]: Created item: New follow: genesisowusu (from <b>gerardpapasimakopoulos</b>)
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 15 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: 2Kindsa Love
-[rss_aggregator.py:unknown user...]: Created item: New release: Sweet N Sour
-[rss_aggregator.py:unknown user...]: Created item: New release: Talk About The Blues
-[rss_aggregator.py:unknown user...]: Created item: New release: Dial M For Motherfucker
-[rss_aggregator.py:unknown user...]: Created item: New release: Right Now
-[rss_aggregator.py:unknown user...]: Created item: New release: Sugarshit Sharp
-[rss_aggregator.py:unknown user...]: Created item: New release: Blokkontroll Veshestvo Otkaza
-[rss_aggregator.py:unknown user...]: Created item: New release: E2871 Kt2374
-[rss_aggregator.py:unknown user...]: Created item: New release: Bramy Przes D Zwyci Ony
-[rss_aggregator.py:unknown user...]: Created item: New release: Corpse Dalsace Lads And Lovers Pedicatio Redux
-[rss_aggregator.py:unknown user...]: Created item: New release: Das Komplex Wiatr Z Po Udnia Ep Step067
-[rss_aggregator.py:unknown user...]: Created item: New release: Porcelain?Label=665116796&Tab=Music
-[rss_aggregator.py:unknown user...]: Created item: New release: Heavy Smoke 2?Label=3534720447&Tab=Music
-[rss_aggregator.py:unknown user...]: Created item: New release: Live At Max S Kansas City
-[rss_aggregator.py:unknown user...]: Created item: New release: Hnr017 Impulse Inversion
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 30 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-16 09:23:21.549166
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 17 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Krismasi Christmas Songs From Africa 1968 1982
+[rss_aggregator.py:unknown user...]: Created item: New release: Googoo Gaga
+[rss_aggregator.py:unknown user...]: Created item: New release: Ashrr06 Please Don T Stop The Rain Ron Trent Remixes
+[rss_aggregator.py:unknown user...]: Created item: New release: Ashrr04 Different Kind Of Life Massimiliano Pagliara Remixes
+[rss_aggregator.py:unknown user...]: Created item: New release: Whats Been Turning You On System Olympia Remixes
+[rss_aggregator.py:unknown user...]: Created item: New release: Who Is The Sky Digital Deluxe Edition
+[rss_aggregator.py:unknown user...]: Created item: New release: Music For Empty Stadiums?Label=3346356205&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Happiness Delays Drum Machines 2
+[rss_aggregator.py:unknown user...]: Created item: New release: Sans Soleil Supreme Accelerato
+[rss_aggregator.py:unknown user...]: Created item: New release: Sans Soleil The Remixes
+[rss_aggregator.py:unknown user...]: Created item: New release: Sans Soleil
+[rss_aggregator.py:unknown user...]: Created item: New release: Catz N Dogz Stuzzi Myd Moln Finally Version Pets239
+[rss_aggregator.py:unknown user...]: Created item: New release: Catz N Dogz Drew Hall Take The Night Pets238
+[rss_aggregator.py:unknown user...]: Created item: New release: Catz N Dogz Ajii Were Gonna Be Alright Pets237
+[rss_aggregator.py:unknown user...]: Created item: New release: Pbj
+[rss_aggregator.py:unknown user...]: Created item: New release: Googoo Gaga?Label=2867626271&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Aqua Tacita 2?Label=1715331035&Tab=Music
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 17 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-17 09:31:48.500758
 [user_orchestrator.py]: Exited successfully
