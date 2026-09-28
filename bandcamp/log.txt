@@ -8,8 +8,8 @@
 [collection_parser:divinelink]: Found 58 links...
 [collection_parser:divinelink]: Found 0 new collection items
 [collection_parser:divinelink]: Exited successfully
-[wishlist_parser:divinelink]: Found 54 links...
-[wishlist_parser:divinelink]: Found 0 new wishlist items
+[wishlist_parser:divinelink]: Found 55 links...
+[wishlist_parser:divinelink]: Found 1 new wishlist items
 [wishlist_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://zoltannyari.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -317,8 +317,9 @@
 [release_parser:divinelink]: Found 14 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: No updates detected for this user
-[rss_aggregator.py:divinelink]: Exited successfully
+[rss_aggregator.py:divinelink]: Found 1 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Habibi Funk 035 Beirut City Pop
+[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 363 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -1156,7 +1157,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://benefitstheband.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://neinrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1780,8 +1781,7 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Warhorse Godzilla Mix
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 1 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-27 10:06:40.764042
+[rss_aggregator.py:gerardpapasimakopoulos]: No updates detected for this user
+[rss_aggregator.py:gerardpapasimakopoulos]: Exited successfully
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-28 10:56:10.058056
 [user_orchestrator.py]: Exited successfully
