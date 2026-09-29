@@ -9,7 +9,7 @@
 [collection_parser:divinelink]: Found 0 new collection items
 [collection_parser:divinelink]: Exited successfully
 [wishlist_parser:divinelink]: Found 55 links...
-[wishlist_parser:divinelink]: Found 1 new wishlist items
+[wishlist_parser:divinelink]: Found 0 new wishlist items
 [wishlist_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://zoltannyari.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -317,14 +317,13 @@
 [release_parser:divinelink]: Found 14 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: Found 1 new items for wishlist
-[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Habibi Funk 035 Beirut City Pop
-[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
+[rss_aggregator.py:divinelink]: No updates detected for this user
+[rss_aggregator.py:divinelink]: Exited successfully
 [following_parser:gerardpapasimakopoulos]: Found 363 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
 [following_parser:gerardpapasimakopoulos]: Exited successfully
-[collection_parser:gerardpapasimakopoulos]: Found 519 links...
+[collection_parser:gerardpapasimakopoulos]: Found 518 links...
 [collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
 [wishlist_parser:gerardpapasimakopoulos]: Found 56 links...
@@ -1117,7 +1116,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://frenkdublin.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://wallacejimmygs.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 8 links...
@@ -1149,7 +1148,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ad93.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://goldenbug.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1161,7 +1160,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://neinrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://vercettitechnicolor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 12 links...
@@ -1425,7 +1424,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://goat.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://chicosdenazca.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 14 links...
@@ -1615,7 +1614,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hoganordrekords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://husbandsokc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1781,7 +1780,12 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: No updates detected for this user
-[rss_aggregator.py:gerardpapasimakopoulos]: Exited successfully
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-28 10:56:10.058056
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 5 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Echo Ltd 016 Ep
+[rss_aggregator.py:unknown user...]: Created item: New release: Carrier?Label=3346356205&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Smashin Synthesis
+[rss_aggregator.py:unknown user...]: Created item: New release: Headsoup 2026 Repress
+[rss_aggregator.py:unknown user...]: Created item: New release: Hnr018 The Dirty Beat Cirklar
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 5 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-09-29 10:43:56.725117
 [user_orchestrator.py]: Exited successfully
