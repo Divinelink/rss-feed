@@ -235,7 +235,7 @@
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://slowerpace.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
-[release_parser:divinelink]: Found 0 new release items
+[release_parser:divinelink]: Found 1 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://ronaldjenkees.bandcamp.com/music]
 [release_parser:divinelink]: Found 8 links...
@@ -321,8 +321,9 @@
 [release_parser:divinelink]: Found 4 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: No updates detected for this user
-[rss_aggregator.py:divinelink]: Exited successfully
+[rss_aggregator.py:divinelink]: Found 1 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Aplomb
+[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 363 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -363,7 +364,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://brosh.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://pocketpalma.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -812,7 +813,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://boysshorts.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://comeme.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1111,8 +1112,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://davidbyrne.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 14 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 15 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://planettriprecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1456,7 +1457,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://warprecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://shepastawayofficial.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -1557,7 +1558,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://k7records.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://tigerbloodtapes.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1784,11 +1785,10 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 4 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Return To Full Form Album
-[rss_aggregator.py:unknown user...]: Created item: New release: Yours In The Ranks Of Death
-[rss_aggregator.py:unknown user...]: Created item: New release: All Ages?Label=665116796&Tab=Music
-[rss_aggregator.py:unknown user...]: Created item: New release: Dj Kicks Dam Swindle 2?Label=233016894&Tab=Music
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 4 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-07 11:08:53.310372
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: The Haunt
+[rss_aggregator.py:unknown user...]: Created item: New release: Mecanimaux Terr Remix
+[rss_aggregator.py:unknown user...]: Created item: New release: Let Me Sell You A Dream
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-08 11:25:34.450408
 [user_orchestrator.py]: Exited successfully
