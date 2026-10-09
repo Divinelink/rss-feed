@@ -1,15 +1,15 @@
 [user_orchestrator.py]: Starting
 [user_orchestrator.py]: Clearing existing items from items.rss
 [user_orchestrator.py]: Prepping SSF files based on current users...
-[following_parser:divinelink]: Found 78 links...
+[following_parser:divinelink]: Found 79 links...
 [following_parser:divinelink]: Removed 1 artists that divinelink no longer follows
-[following_parser:divinelink]: Found 0 new following items
+[following_parser:divinelink]: Found 1 new following items
 [following_parser:divinelink]: Exited successfully
 [collection_parser:divinelink]: Found 58 links...
-[collection_parser:divinelink]: Found 0 new collection items
+[collection_parser:divinelink]: Found 1 new collection items
 [collection_parser:divinelink]: Exited successfully
-[wishlist_parser:divinelink]: Found 55 links...
-[wishlist_parser:divinelink]: Found 0 new wishlist items
+[wishlist_parser:divinelink]: Found 56 links...
+[wishlist_parser:divinelink]: Found 1 new wishlist items
 [wishlist_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://zoltannyari.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -169,7 +169,7 @@
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://insideoutmusic.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
-[release_parser:divinelink]: Found 0 new release items
+[release_parser:divinelink]: Found 2 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://spocksbeard.bandcamp.com/music]
 [release_parser:divinelink]: Found 3 links...
@@ -303,7 +303,7 @@
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://epicmountainmusic.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
-[release_parser:divinelink]: Found 0 new release items
+[release_parser:divinelink]: Found 1 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://eikoishibashi.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
@@ -321,9 +321,22 @@
 [release_parser:divinelink]: Found 4 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: Found 1 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Aplomb
-[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
+[release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [NEW: https://raylandbaxtertn.bandcamp.com/music]
+[release_parser:divinelink]: Found 3 links...
+[release_parser:divinelink]: Found 3 new release items
+[release_parser:divinelink]: Exited successfully
+[rss_aggregator.py:divinelink]: Found 1 new items for collection
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to collection: Monologue
+[rss_aggregator.py:divinelink]: Found 1 new items for following
+[rss_aggregator.py:unknown user...]: Created item: New follow: raylandbaxtertn (from <b>divinelink</b>)
+[rss_aggregator.py:divinelink]: Found 1 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>divinelink</b> added to wishlist: Wide Awake
+[rss_aggregator.py:divinelink]: Found 4 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Apocalypse Deluxe Edition 24 Bit Hd Audio?Label=1230861288&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Casting Stones 24 Bit Hd Audio?Label=1230861288&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: 7 Deadly Sins
+[rss_aggregator.py:unknown user...]: Created item: New release: History Dark Matter
+[rss_aggregator.py:divinelink]: updating items.rss with 7 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 363 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -721,7 +734,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ghostfunkorchestra.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://antibalas.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 11 links...
@@ -813,7 +826,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://boysshorts.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://comeme.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1113,7 +1126,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://davidbyrne.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 15 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://planettriprecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1473,7 +1486,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://decius.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://headmanrobiinsinna.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1785,10 +1798,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: The Haunt
-[rss_aggregator.py:unknown user...]: Created item: New release: Mecanimaux Terr Remix
-[rss_aggregator.py:unknown user...]: Created item: New release: Let Me Sell You A Dream
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-08 11:25:34.450408
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Decius Trax Ep Viii
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-09 11:24:36.524465
 [user_orchestrator.py]: Exited successfully
