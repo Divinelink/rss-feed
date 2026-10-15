@@ -4,20 +4,41 @@
 <title>Bandcamp Updates</title>
 <link>https://bandcamp.com</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
-<lastBuildDate>2026-10-14 09:35:16.897842</lastBuildDate>
+<lastBuildDate>2026-10-15 09:14:05.380953</lastBuildDate>
 <item>
-<title>New release: Liquid Sound Bar</title>
-<link>https://strmi.bandcamp.com/album/liquid-sound-bar</link>
-<guid>release-20261014092637-divinelink-7838465044490654763</guid>
-<description><a href="https://strmi.bandcamp.com/album/liquid-sound-bar">https://strmi.bandcamp.com/album/liquid-sound-bar</a></description>
-<pubDate>Wed, 14 Oct 2026 09:26:37 -0000</pubDate>
+<title>New release: Lost In Space</title>
+<link>https://slowerpace.bandcamp.com/album/lost-in-space</link>
+<guid>release-20261015090505-divinelink-1762220490233823090</guid>
+<description><a href="https://slowerpace.bandcamp.com/album/lost-in-space">https://slowerpace.bandcamp.com/album/lost-in-space</a></description>
+<pubDate>Thu, 15 Oct 2026 09:05:05 -0000</pubDate>
 </item>
 <item>
-<title>New release: Melao Y Guaguanc?Label=1148319798&Tab=Music</title>
-<link>https://sextetotropical.bandcamp.com/album/melao-y-guaguanc?label=1148319798&tab=music</link>
-<guid>release-20261014093516-gerardpapasimakopoulos-6739787789453086017</guid>
-<description><a href="https://sextetotropical.bandcamp.com/album/melao-y-guaguanc?label=1148319798&tab=music">https://sextetotropical.bandcamp.com/album/melao-y-guaguanc?label=1148319798&tab=music</a></description>
-<pubDate>Wed, 14 Oct 2026 09:35:16 -0000</pubDate>
+<title>New release: Secrets</title>
+<link>https://wallacejimmygs.bandcamp.com/album/secrets</link>
+<guid>release-20261015091405-gerardpapasimakopoulos--129611683324894943</guid>
+<description><a href="https://wallacejimmygs.bandcamp.com/album/secrets">https://wallacejimmygs.bandcamp.com/album/secrets</a></description>
+<pubDate>Thu, 15 Oct 2026 09:14:05 -0000</pubDate>
+</item>
+<item>
+<title>New release: One Way To Say 2?Label=496745740&Tab=Music</title>
+<link>https://johnnysaisquoi.bandcamp.com/album/one-way-to-say-2?label=496745740&tab=music</link>
+<guid>release-20261015091405-gerardpapasimakopoulos--9007761077697725218</guid>
+<description><a href="https://johnnysaisquoi.bandcamp.com/album/one-way-to-say-2?label=496745740&tab=music">https://johnnysaisquoi.bandcamp.com/album/one-way-to-say-2?label=496745740&tab=music</a></description>
+<pubDate>Thu, 15 Oct 2026 09:14:05 -0000</pubDate>
+</item>
+<item>
+<title>New release: 7S 8S</title>
+<link>https://neinrecords.bandcamp.com/album/7s-8s</link>
+<guid>release-20261015091405-gerardpapasimakopoulos-8831271343276730102</guid>
+<description><a href="https://neinrecords.bandcamp.com/album/7s-8s">https://neinrecords.bandcamp.com/album/7s-8s</a></description>
+<pubDate>Thu, 15 Oct 2026 09:14:05 -0000</pubDate>
+</item>
+<item>
+<title>New release: Always Then Sleepless Version</title>
+<link>https://thekvb.bandcamp.com/track/always-then-sleepless-version</link>
+<guid>release-20261015091405-gerardpapasimakopoulos--7387994875651735206</guid>
+<description><a href="https://thekvb.bandcamp.com/track/always-then-sleepless-version">https://thekvb.bandcamp.com/track/always-then-sleepless-version</a></description>
+<pubDate>Thu, 15 Oct 2026 09:14:05 -0000</pubDate>
 </item>
 
 </channel>
