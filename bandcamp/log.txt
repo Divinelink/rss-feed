@@ -1,9 +1,9 @@
 [user_orchestrator.py]: Starting
 [user_orchestrator.py]: Clearing existing items from items.rss
 [user_orchestrator.py]: Prepping SSF files based on current users...
-[following_parser:divinelink]: Found 79 links...
+[following_parser:divinelink]: Found 80 links...
 [following_parser:divinelink]: Removed 1 artists that divinelink no longer follows
-[following_parser:divinelink]: Found 0 new following items
+[following_parser:divinelink]: Found 1 new following items
 [following_parser:divinelink]: Exited successfully
 [collection_parser:divinelink]: Found 58 links...
 [collection_parser:divinelink]: Found 0 new collection items
@@ -325,8 +325,13 @@
 [release_parser:divinelink]: Found 3 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: No updates detected for this user
-[rss_aggregator.py:divinelink]: Exited successfully
+[release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [NEW: https://alfamist.bandcamp.com/music]
+[release_parser:divinelink]: Found 13 links...
+[release_parser:divinelink]: Found 13 new release items
+[release_parser:divinelink]: Exited successfully
+[rss_aggregator.py:divinelink]: Found 1 new items for following
+[rss_aggregator.py:unknown user...]: Created item: New follow: alfamist (from <b>divinelink</b>)
+[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 363 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -334,8 +339,8 @@
 [collection_parser:gerardpapasimakopoulos]: Found 517 links...
 [collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
-[wishlist_parser:gerardpapasimakopoulos]: Found 57 links...
-[wishlist_parser:gerardpapasimakopoulos]: Found 0 new wishlist items
+[wishlist_parser:gerardpapasimakopoulos]: Found 58 links...
+[wishlist_parser:gerardpapasimakopoulos]: Found 1 new wishlist items
 [wishlist_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ventolin1.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 10 links...
@@ -788,7 +793,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://diplo.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://charlottegainsbourg.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1168,7 +1173,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://neinrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://vercettitechnicolor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 12 links...
@@ -1284,7 +1289,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://heavenlyrecordings.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://johnmaus.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 8 links...
@@ -1359,8 +1364,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hologramteen.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 17 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://alfamatrix.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1622,7 +1627,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hoganordrekords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://husbandsokc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1788,8 +1793,13 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Youve Got The Love Remixes?Label=456339536&Tab=Music
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 1 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-19 09:57:32.981199
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 1 new items for wishlist
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to wishlist: Nightshifter
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 4 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Let Me Cook
+[rss_aggregator.py:unknown user...]: Created item: New release: Toxico Ep
+[rss_aggregator.py:unknown user...]: Created item: New release: Wolkman Julia Holter Remix 2
+[rss_aggregator.py:unknown user...]: Created item: New release: Hnr023 Dog Acid Sex Beat
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 5 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-10-20 09:41:41.197619
 [user_orchestrator.py]: Exited successfully
