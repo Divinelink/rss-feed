@@ -487,11 +487,11 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://cajucollective.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 15 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://taqtuqa.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://wildyouthdigital.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -724,7 +724,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://clivefromaccounts.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 8 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ghostfunkorchestra.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1264,7 +1264,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://petsrecordings.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://lesbigbyrd.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
@@ -1288,7 +1288,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://heavenlyrecordings.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://johnmaus.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 8 links...
@@ -1792,9 +1792,10 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: R Zee Jackson True Love True Love Instrumental
-[rss_aggregator.py:unknown user...]: Created item: New release: Law Maxi Single
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-01 11:21:26.671468
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Strictly Business Ep
+[rss_aggregator.py:unknown user...]: Created item: New release: Joyce Muniz Vnssa Switch On Ep Pets243
+[rss_aggregator.py:unknown user...]: Created item: New release: Say Less?Label=456339536&Tab=Music
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-02 12:22:14.116237
 [user_orchestrator.py]: Exited successfully
