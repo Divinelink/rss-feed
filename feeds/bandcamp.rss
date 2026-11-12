@@ -4,13 +4,34 @@
 <title>Bandcamp Updates</title>
 <link>https://bandcamp.com</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as an RSS feed, aggregated daily for multiple users.</description>
-<lastBuildDate>2026-11-11 11:56:57.931939</lastBuildDate>
+<lastBuildDate>2026-11-12 12:37:19.011986</lastBuildDate>
 <item>
-<title>New release: Death</title>
-<link>https://epicmountainmusic.bandcamp.com/track/death</link>
-<guid>release-20261111114821-divinelink-3892389701108810366</guid>
-<description><a href="https://epicmountainmusic.bandcamp.com/track/death">https://epicmountainmusic.bandcamp.com/track/death</a></description>
-<pubDate>Wed, 11 Nov 2026 11:48:21 -0000</pubDate>
+<title>New release: Monologue</title>
+<link>https://slowerpace.bandcamp.com/album/monologue</link>
+<guid>release-20261112122905-divinelink-179276714864733019</guid>
+<description><a href="https://slowerpace.bandcamp.com/album/monologue">https://slowerpace.bandcamp.com/album/monologue</a></description>
+<pubDate>Thu, 12 Nov 2026 12:29:05 -0000</pubDate>
+</item>
+<item>
+<title>New release: Chant E</title>
+<link>https://slowerpace.bandcamp.com/album/chant-e</link>
+<guid>release-20261112122905-divinelink--2028831283786579866</guid>
+<description><a href="https://slowerpace.bandcamp.com/album/chant-e">https://slowerpace.bandcamp.com/album/chant-e</a></description>
+<pubDate>Thu, 12 Nov 2026 12:29:05 -0000</pubDate>
+</item>
+<item>
+<title>New release: Madness 2</title>
+<link>https://neinrecords.bandcamp.com/album/madness-2</link>
+<guid>release-20261112123718-gerardpapasimakopoulos--778830910902683954</guid>
+<description><a href="https://neinrecords.bandcamp.com/album/madness-2">https://neinrecords.bandcamp.com/album/madness-2</a></description>
+<pubDate>Thu, 12 Nov 2026 12:37:18 -0000</pubDate>
+</item>
+<item>
+<title>New release: Hnrlp020 Beyond The Altai</title>
+<link>https://hoganordrekords.bandcamp.com/album/hnrlp020-beyond-the-altai</link>
+<guid>release-20261112123718-gerardpapasimakopoulos-4608661372706651505</guid>
+<description><a href="https://hoganordrekords.bandcamp.com/album/hnrlp020-beyond-the-altai">https://hoganordrekords.bandcamp.com/album/hnrlp020-beyond-the-altai</a></description>
+<pubDate>Thu, 12 Nov 2026 12:37:18 -0000</pubDate>
 </item>
 
 </channel>
