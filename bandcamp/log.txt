@@ -331,14 +331,14 @@
 [release_parser:divinelink]: Exited successfully
 [rss_aggregator.py:divinelink]: No updates detected for this user
 [rss_aggregator.py:divinelink]: Exited successfully
-[following_parser:gerardpapasimakopoulos]: Found 363 links...
+[following_parser:gerardpapasimakopoulos]: Found 367 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
-[following_parser:gerardpapasimakopoulos]: Found 0 new following items
+[following_parser:gerardpapasimakopoulos]: Found 4 new following items
 [following_parser:gerardpapasimakopoulos]: Exited successfully
-[collection_parser:gerardpapasimakopoulos]: Found 517 links...
-[collection_parser:gerardpapasimakopoulos]: Found 0 new collection items
+[collection_parser:gerardpapasimakopoulos]: Found 523 links...
+[collection_parser:gerardpapasimakopoulos]: Found 6 new collection items
 [collection_parser:gerardpapasimakopoulos]: Exited successfully
-[wishlist_parser:gerardpapasimakopoulos]: Found 59 links...
+[wishlist_parser:gerardpapasimakopoulos]: Found 55 links...
 [wishlist_parser:gerardpapasimakopoulos]: Found 0 new wishlist items
 [wishlist_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ventolin1.bandcamp.com/music]
@@ -1792,7 +1792,34 @@
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: No updates detected for this user
-[rss_aggregator.py:gerardpapasimakopoulos]: Exited successfully
-[user_orchestrator.py]: No updates found for bandcamp.rss
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://automatic-band.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 12 links...
+[release_parser:gerardpapasimakopoulos]: Found 12 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://thedare.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 1 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://waveleaf.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 3 links...
+[release_parser:gerardpapasimakopoulos]: Found 3 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [NEW: https://makeup.bandcamp.com/music]
+[release_parser:gerardpapasimakopoulos]: Found 6 links...
+[release_parser:gerardpapasimakopoulos]: Found 6 new release items
+[release_parser:gerardpapasimakopoulos]: Exited successfully
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 6 new items for collection
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Is It Now
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Girls 2
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Nightshifter
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Secrets
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: Love Songs With A Kick Vol Two
+[rss_aggregator.py:unknown user...]: Created item: <b>gerardpapasimakopoulos</b> added to collection: I Want Some
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 4 new items for following
+[rss_aggregator.py:unknown user...]: Created item: New follow: automatic-band (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:unknown user...]: Created item: New follow: thedare (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:unknown user...]: Created item: New follow: waveleaf (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:unknown user...]: Created item: New follow: makeup (from <b>gerardpapasimakopoulos</b>)
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 10 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-15 12:02:08.632691
 [user_orchestrator.py]: Exited successfully
