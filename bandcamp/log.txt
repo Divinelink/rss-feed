@@ -254,8 +254,8 @@
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://strmi.bandcamp.com/music]
-[release_parser:divinelink]: Found 14 links...
-[release_parser:divinelink]: Found 0 new release items
+[release_parser:divinelink]: Found 15 links...
+[release_parser:divinelink]: Found 1 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://deafcenter.bandcamp.com/music]
 [release_parser:divinelink]: Found 15 links...
@@ -329,8 +329,9 @@
 [release_parser:divinelink]: Found 13 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: No updates detected for this user
-[rss_aggregator.py:divinelink]: Exited successfully
+[rss_aggregator.py:divinelink]: Found 1 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Limbo
+[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
 [following_parser:gerardpapasimakopoulos]: Found 367 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -535,7 +536,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://globalpressmusic.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 3 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://groovefusionrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -627,7 +628,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://culturesofsoul.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hararimusic.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 11 links...
@@ -1549,7 +1550,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://pnkslm.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://toomuchdc.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 2 links...
@@ -1808,7 +1809,12 @@
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: No updates detected for this user
-[rss_aggregator.py:gerardpapasimakopoulos]: Exited successfully
-[user_orchestrator.py]: No updates found for bandcamp.rss
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 5 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Yoroni
+[rss_aggregator.py:unknown user...]: Created item: New release: Tch La
+[rss_aggregator.py:unknown user...]: Created item: New release: Spirits To Bite Our Ears The Single Collection 1977 1986
+[rss_aggregator.py:unknown user...]: Created item: New release: Vinyl Catalog Bundle
+[rss_aggregator.py:unknown user...]: Created item: New release: The Space Between Lp?Label=1623790888&Tab=Music
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 5 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-23 14:28:48.484399
 [user_orchestrator.py]: Exited successfully
