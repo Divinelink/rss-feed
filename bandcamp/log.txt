@@ -299,7 +299,7 @@
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://petergabriel.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
-[release_parser:divinelink]: Found 1 new release items
+[release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
 [release_parser:divinelink]: Pinging bandcamp release feed for user divinelink [https://epicmountainmusic.bandcamp.com/music]
 [release_parser:divinelink]: Found 16 links...
@@ -329,9 +329,8 @@
 [release_parser:divinelink]: Found 13 links...
 [release_parser:divinelink]: Found 0 new release items
 [release_parser:divinelink]: Exited successfully
-[rss_aggregator.py:divinelink]: Found 1 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Yes It Will Go Bright Side Mix 4
-[rss_aggregator.py:divinelink]: updating items.rss with 1 updates for this user
+[rss_aggregator.py:divinelink]: No updates detected for this user
+[rss_aggregator.py:divinelink]: Exited successfully
 [following_parser:gerardpapasimakopoulos]: Found 367 links...
 [following_parser:gerardpapasimakopoulos]: Removed 1 artists that gerardpapasimakopoulos no longer follows
 [following_parser:gerardpapasimakopoulos]: Found 0 new following items
@@ -364,7 +363,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://soundwayrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://ebotaylor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 11 links...
@@ -372,7 +371,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://brosh.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://pocketpalma.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 7 links...
@@ -507,8 +506,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://hamdiryder.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 5 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 6 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://som4li.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
@@ -689,7 +688,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://labrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://undergroundsystem.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 9 links...
@@ -1129,7 +1128,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://frenkdublin.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://wallacejimmygs.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 9 links...
@@ -1337,7 +1336,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://liesrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 3 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://matteovallicelli.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 5 links...
@@ -1566,7 +1565,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://k7records.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://tigerbloodtapes.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1809,10 +1808,15 @@
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 3 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Emanuelle Italove Mancha Edit
-[rss_aggregator.py:unknown user...]: Created item: New release: Come On Ft Tenor Love
-[rss_aggregator.py:unknown user...]: Created item: New release: As Above So Below?Label=3534720447&Tab=Music
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 3 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-24 14:52:55.724480
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 8 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Champeta Electronic Terapia From The Colombian Caribbean?Label=2831727005&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Sicilian Clan Affair
+[rss_aggregator.py:unknown user...]: Created item: New release: Seraphin?Label=3532558044&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Scars
+[rss_aggregator.py:unknown user...]: Created item: New release: Futuro Futuro
+[rss_aggregator.py:unknown user...]: Created item: New release: In My Apartment
+[rss_aggregator.py:unknown user...]: Created item: New release: Mutant Season?Label=3534720447&Tab=Music
+[rss_aggregator.py:unknown user...]: Created item: New release: Blam?Label=233016894&Tab=Music
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 8 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-25 14:15:56.726772
 [user_orchestrator.py]: Exited successfully
