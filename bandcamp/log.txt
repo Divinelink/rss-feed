@@ -352,7 +352,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://vhoor.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://worldwidewebrecords.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
@@ -547,8 +547,8 @@
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://terakora.bandcamp.com/music]
-[release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 0 new release items
+[release_parser:gerardpapasimakopoulos]: Found 17 links...
+[release_parser:gerardpapasimakopoulos]: Found 1 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://thehives.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 1 links...
@@ -701,7 +701,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://balthvs.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://jim-uk.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 15 links...
@@ -741,7 +741,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://perm-vac.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://autarkic.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -825,7 +825,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://boysshorts.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 1 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://comeme.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
@@ -1373,7 +1373,7 @@
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://alfamatrix.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 16 links...
-[release_parser:gerardpapasimakopoulos]: Found 2 new release items
+[release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
 [release_parser:gerardpapasimakopoulos]: Pinging bandcamp release feed for user gerardpapasimakopoulos [https://mattiel.bandcamp.com/music]
 [release_parser:gerardpapasimakopoulos]: Found 13 links...
@@ -1813,12 +1813,9 @@
 [release_parser:gerardpapasimakopoulos]: Found 6 links...
 [release_parser:gerardpapasimakopoulos]: Found 0 new release items
 [release_parser:gerardpapasimakopoulos]: Exited successfully
-[rss_aggregator.py:gerardpapasimakopoulos]: Found 5 new items for release
-[rss_aggregator.py:unknown user...]: Created item: New release: Siente Anthology
-[rss_aggregator.py:unknown user...]: Created item: New release: This Could Be Our Time?Label=1628602585&Tab=Music
-[rss_aggregator.py:unknown user...]: Created item: New release: Disco Romantico Zombies In Miami Remix
-[rss_aggregator.py:unknown user...]: Created item: New release: Away From Here Ep
-[rss_aggregator.py:unknown user...]: Created item: New release: Synthetic Ep Incl Exclusive Bandcamp Bonus Track
-[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 5 updates for this user
-[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-27 13:50:37.794330
+[rss_aggregator.py:gerardpapasimakopoulos]: Found 2 new items for release
+[rss_aggregator.py:unknown user...]: Created item: New release: Shake Down
+[rss_aggregator.py:unknown user...]: Created item: New release: Drop It
+[rss_aggregator.py:gerardpapasimakopoulos]: updating items.rss with 2 updates for this user
+[user_orchestrator.py]: Updating bandcamp.rss at 2026-11-28 13:00:43.048221
 [user_orchestrator.py]: Exited successfully
